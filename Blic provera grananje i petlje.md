@@ -1,10 +1,6 @@
 # Blic provera: grananje i petlje
 
-Oct 22, 2026 · @Vanja
-
-| Ime i prezime | Odeljenje | Bodovi |
-| --- | --- | --- |
-|  |  |  |
+Oct 22, 2026 
 
 ## Uputstvo
 
