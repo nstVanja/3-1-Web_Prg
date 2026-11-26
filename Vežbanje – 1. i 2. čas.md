@@ -1,4 +1,4 @@
-# Stringovi i datumi u JS — priprema za proveru
+# Stringovi i datumi u JS - priprema za proveru
 
 Web programiranje · 3. razred · Nov 18, 2026 · @Vanja
 
